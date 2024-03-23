@@ -1,0 +1,29 @@
+Your SBUID is 114446084
+MAKE SURE THAT YOU ENTERED YOUR SBUID CORRECTLY
+
+
+This is the data set in SI units for the mechanism assigned for your SBUID
+
+Masses and force coefficients
+m1 = 104.0
+m2 = 60.0
+m3 = 52.2
+k1 = 3.3
+k2 = 2.7
+k3 = 1.5
+c1 = 7.8
+c3 = 8.3
+
+External Forces versus time t
+F1(t) = 3.*sin(2*pi*t)/10)
+F2(t) = 0;
+F3(t) = 0
+
+Initial conditions in SI units at t=0
+x1(0) = 1.5
+x2(0) = 2.9
+x3(0) = 4.3
+v1(0)=0
+v2(0)=0
+v3(0)=0
+
